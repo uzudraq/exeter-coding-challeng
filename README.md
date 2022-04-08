@@ -1,4 +1,4 @@
-# exeter-coding-challeng
+# exeter-coding-challenge
 
 
 # What is the input?
